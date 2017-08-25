@@ -13,3 +13,9 @@ This repo including several toll service but you can enjoy the free trial or mat
 ## Package deal
 
 - [Github Student Developer Pack](https://education.github.com/)
+
+## Productivity tools
+
+- [Adobe](https://www.adobe.com/cn/downloads.html)
+- [Office 365](https://products.office.com/zh-cn/try)
+- [Endnote](http://endnote.com/downloads/30-day-trial)
